@@ -32,3 +32,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Appendix
+
+- [Example of Next.js with ApolloClient](https://github.com/vercel/next.js/tree/canary/examples/with-apollo) - an example repo of ApolloClient(GraphQL) with Next.js.
+- [Getting Started With Apollo Client in Next.js](https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started/) - Tutorial doc of ApolloClient with Next.js from Apollo Official.
+- [Next.js：Apollo Client の構築手順](https://zenn.dev/kei178/articles/8c6ad6fd91c9de) - Japanese version of the doc one before from Zenn.
+- [GraphQL, TypeScript, React を用いて型安全に社内システムをリニューアルした話](https://developer.medley.jp/entry/2020/11/06/180208) - Case study of Next+GraphQL with TypeScript
